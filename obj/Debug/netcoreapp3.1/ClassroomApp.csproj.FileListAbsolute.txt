@@ -1,0 +1,5 @@
+/home/enroouto/Documents/Dev/csharp/ClassroomApp/obj/Debug/netcoreapp3.1/ClassroomApp.csprojAssemblyReference.cache
+/home/enroouto/Documents/Dev/csharp/ClassroomApp/obj/Debug/netcoreapp3.1/ClassroomApp.AssemblyInfoInputs.cache
+/home/enroouto/Documents/Dev/csharp/ClassroomApp/obj/Debug/netcoreapp3.1/ClassroomApp.AssemblyInfo.cs
+/home/enroouto/Documents/Dev/csharp/ClassroomApp/obj/Debug/netcoreapp3.1/ClassroomApp.csproj.CoreCompileInputs.cache
+/home/enroouto/Documents/Dev/csharp/ClassroomApp/obj/Debug/netcoreapp3.1/ClassroomApp.MvcApplicationPartsAssemblyInfo.cache

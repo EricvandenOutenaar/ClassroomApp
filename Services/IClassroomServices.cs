@@ -7,6 +7,5 @@ namespace ClassroomApp.Services
         bool AddStudent(Student student);
 
         IEnumerable<Student> GetAllStudents();
-
     }
 }
