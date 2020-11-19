@@ -1,3 +1,5 @@
 {
-    "csharp.semanticHighlighting.enabled": true
+    "csharp.semanticHighlighting.enabled": true,
+    "http.proxyStrictSSL": false,
+    "http.proxyAuthorization": null
 }
